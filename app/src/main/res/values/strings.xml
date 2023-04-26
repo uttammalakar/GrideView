@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GrideView</string>
+
+    <string-array name="country_names">
+        <item> aus</item>
+        <item> bel</item>
+        <item> gre</item>
+        <item> ind</item>
+        <item> may</item>
+        <item> pot</item>
+        <item> ros</item>
+        <item> sun</item>
+        <item> usa</item>
+
+    </string-array>
+
+
+
+</resources>
